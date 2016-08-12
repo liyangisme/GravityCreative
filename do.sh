@@ -1,3 +1,3 @@
 `git add .`
-`git commit -m "haha"`
+`git commit -m addarticle`
 `git push origin gh-pages`
